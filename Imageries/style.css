@@ -1,0 +1,172 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.header{
+    background-color: rgb(60, 53, 97);
+    color: white;
+    text-align: center;
+    padding: 18px;
+    border: 2;
+}
+.header-text{
+    color: white;
+}
+.header-text-two{
+    font-style: italic;
+}
+.header-2{
+    font-size: 20px;
+}
+.header-button{
+background-color: orange;
+color: black;
+font-size: 22px;
+width: 200px;
+margin-top: 10px;
+padding: 10px;
+border: none;
+border-radius: 20px;
+height: 40px;
+text-align: center;
+margin-left: 7px;
+}
+.header-button:hover{
+    background-color: green;
+}
+.div{
+    background-color: white;
+    text-align: center;
+}
+.we{
+    text-align: center;
+    font-family: Calibri;
+}
+.team{
+    text-align: center;
+    font-family: Calibri;
+    padding: 4px;
+}
+.imageries{
+    display: flex;
+    flex: 50px;
+    margin-left: 10%;
+    padding: 70px;
+    justify-content: space-around;
+    text-align: center;
+}
+.a{
+    height: 25%;
+    width: 25%;
+}
+.b{
+    height: 25%;
+    width: 25%;
+}
+.c{
+    height: 25%;
+    width: 25%;
+}
+.header-text-three{
+    background-color: orange;
+    padding: 15px;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+}
+.beauty{
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    margin-left: 20px;
+}
+.beauty-a{
+    margin-left: 70px;
+}
+.beauty-b{
+    height: 400px;
+    margin-left: 40px;
+}
+.beauty-c{
+    margin-left: 25px;
+}
+.explore{
+    text-align: center;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    margin-left: 20px;
+}
+.head{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: navajowhite;
+
+}
+.email{ 
+    padding: 25px;
+    width: 500px;
+    height: 30px; 
+    border-radius: 5px;
+}
+button{
+    margin-left: 10px;
+    height: 25px;
+    background-color: orange;
+    border: none;
+    width: 70px;
+    font-weight: 600;
+    color: white;
+    margin-left: -90px;
+}
+.sub{
+    border-radius: 5px;
+}
+.us{
+    background-color: whitesmoke;
+    padding: 5px;
+    text-align: center;
+    justify-content: center;
+}
+.name{
+    width: 400px;
+    border-radius: 3px;
+    height: 40px;
+}
+#number{
+    width: 400px;
+    border-radius: 3px;
+    height: 40px;
+}
+.type{
+    width: 400px;
+    border-radius: 3px;
+    height: 150px;
+    min-height: 100px;
+}
+.send{
+    background-color: navy;
+    color: white;
+    border-radius: 4px;
+    width: 400px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 5px;
+}
+.last-page{
+    color: white;
+    background-color: navy;
+    padding: 15px;
+}
+#are{
+    font-style: italic;
+}
+#here{
+    width: 30%;
+}
